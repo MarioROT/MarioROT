@@ -7,7 +7,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=MarioRosOt)
-[![Linkedin: MarioROT](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-rosas-otero-443726187/)](https://www.linkedin.com/in/mario-rosas-otero-443726187/)
+[![Linkedin: MarioROT](https://img.shields.io/badge/-MarioROT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-rosas-otero-443726187/)](https://www.linkedin.com/in/mario-rosas-otero-443726187/)
 ![GitHub followers](https://img.shields.io/github/followers/MarioROT?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mariorot.github.io/)](https://mariorot.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=MarioROT.MarioROT)

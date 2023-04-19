@@ -5,6 +5,7 @@
 </em></p>
 
 Mario Rosas 
+
 Technologist | AI, Data Science, Cryptography | Python, C++, Julia, MATLAB | Learning Web Dev | Passionate about Science | Let's build the future together!
 
 Hi there! I'm a passionate Technologist with a strong interest in science and technology. I love to create innovative solutions and contribute to diverse communities. My expertise lies in AI especially oriented to computer vision and criptobiometric systems. I'm constantly learning and exploring new technologies to stay up-to-date with the ever-evolving tech landscape, right now I'm enrolled in a FullStack Web Development.

@@ -4,6 +4,15 @@
 <!-- </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 
+### Let's connect:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=MarioRosOt)
+[![Linkedin: MarioROT](https://img.shields.io/badge/-MarioROT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-rosas-otero-443726187/)](https://www.linkedin.com/in/mario-rosas-otero-443726187/)
+![GitHub followers](https://img.shields.io/github/followers/MarioROT?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mariorot.github.io/)](https://mariorot.github.io/)
+![](https://visitor-badge.glitch.me/badge?page_id=MarioROT.MarioROT)
+
+
 Mario Rosas 
 
 Technologist | AI, Data Science, Cryptography | Python, C++, Julia, MATLAB | Learning Web Dev | Passionate about Science | Let's build the future together!
@@ -53,16 +62,6 @@ When I'm not coding, you can find me riding my bike, skating through the city, o
   * Reading
   * Bikes | Longboards
   * Travel
-
-
-### Let's connect:
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=MarioRosOt)
-[![Linkedin: MarioROT](https://img.shields.io/badge/-MarioROT-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-rosas-otero-443726187/)](https://www.linkedin.com/in/mario-rosas-otero-443726187/)
-![GitHub followers](https://img.shields.io/github/followers/MarioROT?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mariorot.github.io/)](https://mariorot.github.io/)
-![](https://visitor-badge.glitch.me/badge?page_id=MarioROT.MarioROT)
-
 
 
 ### Me, in a code snippet...

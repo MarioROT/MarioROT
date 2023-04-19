@@ -32,7 +32,7 @@ const MarioROT = {
         databases: [MySql"],
     },
     Topics: ["Scientific computing", "WEB DEV", "Algorithms"],
-    currentFocus: "Web Dev"
+    currentFocus: "AI & Web Dev"
 };
 ```
 

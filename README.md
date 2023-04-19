@@ -46,13 +46,13 @@ When I'm not coding, you can find me riding my bike, skating through the city, o
   * French - Basic
 
 * **Interests:**
- * AI
- * Cryptography
- * Algorithms
- * Math
- * Reading
- * Bikes | Longboards
- * Travel
+  * AI
+  * Cryptography
+  * Algorithms
+  * Math
+  * Reading
+  * Bikes | Longboards
+  * Travel
 
 
 ### Let's connect:
